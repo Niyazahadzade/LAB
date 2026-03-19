@@ -1,0 +1,1 @@
+def soyad(string:str):
