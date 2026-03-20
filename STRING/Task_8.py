@@ -23,4 +23,6 @@ while i<lenn_setir:
         status=0
         soz=""
         i+=lenn_word
+    else:
+        i+=lenn_word
 print(say)
