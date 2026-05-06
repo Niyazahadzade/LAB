@@ -224,7 +224,8 @@ for t in range(k):
     for j in range(-1,-1*len(l2),-1):
         l2[j],l2[j-1]=l2[j-1],l2[j]
 if len(l1)>len(l2):
-    for i in range(len(l2))
+    for i in range(len(l2)):
+
 
 
 
